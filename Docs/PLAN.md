@@ -9,8 +9,11 @@ Sprint 2:
 
 Sprint 3:
  - Map design
+ - Collision detection
 
 Sprint 4:
- - 
+ - Start Menu
+ - Small specs such as sound effects and music
 
 Sprint 5:
+ - Extra Specs potentially referring to computer vision in some component
